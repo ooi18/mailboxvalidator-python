@@ -6,10 +6,9 @@ To install this module type the following:
 
 	pip install MailboxValidator
 
-Sample Codes
-============
+## Sample Codes
 
-## Validate email
+### Validate email
 
 ```python
 import MailboxValidator
@@ -44,7 +43,7 @@ import MailboxValidator
 ```
 
 
-## Check if an email is from a disposable email provider
+### Check if an email is from a disposable email provider
 
 ```python
 import MailboxValidator
@@ -63,7 +62,7 @@ import MailboxValidator
 		print('error_message = ' + results['error_message'] + "\n")
 ```
 
-## Check if an email is from a free email provider
+### Check if an email is from a free email provider
 
 ```python
 import MailboxValidator
@@ -82,8 +81,7 @@ import MailboxValidator
 		print('error_message = ' + results['error_message'] + "\n")
 ```
 
-Errors
-======
+## Errors
 
 | error_code | error_message |
 | ---------- | ------------- |

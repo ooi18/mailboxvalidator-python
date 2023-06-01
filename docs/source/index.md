@@ -12,8 +12,16 @@ This module can be useful in many types of projects, for example
 
 
 Dependencies
-============
+-------------
 
 An API key is required for this module to function.
 
-Go to https://www.mailboxvalidator.com/plans#api to sign up for FREE API plan and you'll be given an API key.
+Go to [https://www.mailboxvalidator.com/plans#api](https://www.mailboxvalidator.com/plans#api) to sign up for FREE API plan and you'll be given an API key.
+
+# Contents
+
+```{toctree}
+
+usage
+api
+```
