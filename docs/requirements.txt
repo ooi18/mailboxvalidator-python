@@ -1,2 +1,2 @@
 # Defining the exact version will make sure things don't break
-myst_parser==1.0.0
+furo==2023.5.20
