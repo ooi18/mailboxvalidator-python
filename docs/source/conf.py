@@ -34,11 +34,11 @@ templates_path = ['_templates']
 
 # html_theme = 'sphinx_rtd_theme'
 # html_theme = 'press'
-# html_theme = 'sphinx_material'
-html_theme = 'furo'
+html_theme = 'sphinx_material'
+# html_theme = 'furo'
 # html_theme = 'renku'
 
-'''
+''''''
 # Material theme options (see theme.conf for more information)
 html_theme_options = {
 
@@ -67,7 +67,7 @@ html_theme_options = {
     'globaltoc_collapse': False,
     # If True, show hidden TOC entries
     'globaltoc_includehidden': False,
-}'''
+}
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
