@@ -1,6 +1,10 @@
 MailboxValidator Python Module
 ==============================
 
+.. meta::
+    :description lang=en:
+        MailboxValidator Python module enable users to block disposal email, detect free email and validate if an email is valid.
+
 This Python module enables user to easily validate if an email address
 is valid, a type of disposable email or free email.
 
